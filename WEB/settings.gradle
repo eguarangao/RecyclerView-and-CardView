@@ -1,0 +1,2 @@
+rootProject.name = "UTEQlibros"
+include ':app'
